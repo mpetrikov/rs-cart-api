@@ -1,0 +1,19 @@
+# npm install create this directory every time 
+node_modules
+
+# this directory compiles every time 
+dist
+
+# elastic beans folders
+.elasticbeantalk
+.ebextansions
+
+# git directory
+.git
+
+# intellij ides files
+.DS_Store
+
+.gitignore
+README.md
+env.*
